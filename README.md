@@ -21,7 +21,7 @@ Download COCO2017 from [github](https://opendatalab.com/OpenDataLab/COCO_2017](h
 
 ##  2.Usage
 <details open>
-<summary> COCO2017 </summary>
+<summary> visdrone2019 </summary>
 
 1. Training
 ```shell
@@ -41,7 +41,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --master_port=7777 --nproc_per_node=4 trai
 ```
 </details>
 
-<details>
 
 
 

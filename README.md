@@ -16,7 +16,7 @@ pip install -r requirements.txt
 <summary> visdrone2019 Dataset </summary>
 
 Download COCO2017 from [github](https://opendatalab.com/OpenDataLab/COCO_2017](https://github.com/VisDrone/VisDrone-Dataset) 
-
+</details>
 
 
 ##  2.Usage
